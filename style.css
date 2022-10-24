@@ -1,0 +1,49 @@
+#codoacodo{
+    height: 50px;
+        
+}
+
+#headerlista{
+    justify-content: right;
+    
+}
+
+#carouseltamano{
+    height: fit-content;
+    width: fit-content;
+}
+
+#titulos{
+    text-align: center;
+}
+
+#octubre{
+    background-color: #3e3d3d;
+    text-align: left;
+    color:white;
+    padding: 20px;  
+    
+}
+
+#fila{        
+    position: relative;
+
+}
+
+.columna {
+    float: left;
+    width: 50%;
+  }
+
+#botonenviar{
+    width: 100%;    
+}
+  
+#footer{
+    flex-direction: column;
+
+}
+
+.carouselali{
+    text-align: right;
+}
